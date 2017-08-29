@@ -1,0 +1,172 @@
+*** *  DSSAT PROFILE * ***
+DDB // root/DSSAT47
+DTB // root/DSSAT47
+DTE // root/DSSAT47
+DTO // root/DSSAT47
+DAT // root/DSSAT47
+DPT // root/DSSAT47
+DIM // root/DSSAT47
+DTP // root/DSSAT47
+DPF // root/DSSAT47
+DFO // root/DSSAT47
+DIS // root/DSSAT47
+DDW // root/DSSAT47
+DWG // root/DSSAT47
+DWC // root/DSSAT47
+DDS // root/DSSAT47
+DTS // root/DSSAT47
+DDG // root/DSSAT47
+DCG // root/DSSAT47/TOOLS/GENCALC GENCALC2.EXE
+DGL // root/DSSAT47/TOOLS/GLUE GLUE.BAT
+DPM // root/DSSAT47
+DDE // root/DSSAT47
+TOG // root/DSSAT47/TOOLS/GBUILD GBUILD.EXE
+
+MAL // root/DSSAT47 dscsm047 PRFRM047
+MAR // root/DSSAT47
+MBA // root/DSSAT47 dscsm047 CSCER047
+MBH // root/DSSAT47 dscsm047 CRGRO047
+MBM // root/DSSAT47 dscsm047 PRFRM047
+MBN // root/DSSAT47 dscsm047 CRGRO047
+MBR // root/DSSAT47 dscsm047 PRFRM047
+MBS // root/DSSAT47 dscsm047 BSCER047
+MBW // root/DSSAT47
+MCB // root/DSSAT47 dscsm047 CRGRO047
+MCH // root/DSSAT47 dscsm047 CRGRO047
+MCT // root/DSSAT47
+MCN // root/DSSAT47 dscsm047 CRGRO047
+MCO // root/DSSAT47 dscsm047 CRGRO047
+MCP // root/DSSAT47 dscsm047 CRGRO047
+MCS // root/DSSAT47 dscsm047 CSYCA047
+MCV // root/DSSAT47
+MFA // root/DSSAT47 dscsm047 CRGRO047
+MFB // root/DSSAT47 dscsm047 CRGRO047
+MGB // root/DSSAT47 dscsm047 CRGRO047
+MGW // root/DSSAT47
+MLT // root/DSSAT47 dscsm047 CRGRO047
+MML // root/DSSAT47 dscsm047 MLCER047
+MMZ // root/DSSAT47 dscsm047 MZCER047
+MNN // root/DSSAT47
+MNP // root/DSSAT47 dscsm047 CRGRO047
+MOA // root/DSSAT47
+MPE // root/DSSAT47
+MPI // root/DSSAT47 dscsm047 PIALO047
+MPN // root/DSSAT47 dscsm047 CRGRO047
+MPO // root/DSSAT47
+MPP // root/DSSAT47 dscsm047 CRGRO047
+MPR // root/DSSAT47 dscsm047 CRGRO047
+MPT // root/DSSAT47 dscsm047 PTSUB047
+MRI // root/DSSAT47 dscsm047 RICER047
+MRP // root/DSSAT47
+MSB // root/DSSAT47 dscsm047 CRGRO047
+MSC // root/DSSAT47 dscsm047 SCCAN047
+MSF // root/DSSAT47 dscsm047 CRGRO047
+MSG // root/DSSAT47 dscsm047 SGCER047
+MSI // root/DSSAT47
+MSS // root/DSSAT47
+MSU // root/DSSAT47 dscsm047 CRGRO047
+MSW // root/DSSAT47 dscsm047 SWCER047
+MTM // root/DSSAT47 dscsm047 CRGRO047
+MTN // root/DSSAT47 dscsm047 TNARO047
+MTR // root/DSSAT47 dscsm047 TRARO047
+MVB // root/DSSAT47 dscsm047 CRGRO047
+MVI // root/DSSAT47
+MWH // root/DSSAT47 dscsm047 CSCER047
+MOT // root/DSSAT47
+MU1 // root/DSSAT47
+MU2 // root/DSSAT47
+MIO // root/DSSAT47
+MLO // root/DSSAT47
+MG0 // root/DSSAT47 dscsm047 PRFRM047
+
+MGR // root/DSSAT47
+NSH // root/DSSAT47
+ASP // root/DSSAT47
+ASS // root/DSSAT47 dscsm047
+ASA // root/DSSAT47 VARAN2.EXE
+AGR // root/DSSAT47
+AQS // root/DSSAT47 dscsm047
+AQA // root/DSSAT47 SUSTAIN2.EXE
+ASX // root/DSSAT47
+APS // root/DSSAT47 dscsm047
+APV // root/DSSAT47
+APM // root/DSSAT47
+APA // root/DSSAT47 VARAN2.EXE
+APJ // root/DSSAT47
+APF // root/DSSAT47
+APP // root/DSSAT47
+APK // root/DSSAT47 DISC9801.EXE
+TOE // /WINDOWS NOTEPAD.EXE
+TOS // /
+TOM // /
+BGD // root/DSSAT47/Background
+STD // root/DSSAT47/StandardData
+CDD // root/DSSAT47
+WED // root/DSSAT47/Weather
+WGD // root/DSSAT47/Weather/Gen
+CLD // root/DSSAT47/Weather/Climate
+WMD // root/DSSAT47/Weather/Month
+SLD // root/DSSAT47/Soil
+CRD // root/DSSAT47/Genotype
+FID // root/DSSAT47/Background
+ALD // root/DSSAT47/Alfalfa
+GCD // root/DSSAT47/GCWork
+GUD // root/DSSAT47/GLWork
+ARD // root/DSSAT47/
+BAD // root/DSSAT47/Barley
+BHD // root/DSSAT47/Bahia
+BMD // root/DSSAT47/Bermudagrass
+BND // root/DSSAT47/Drybean
+BRD // root/DSSAT47/Brachiaria
+BSD // root/DSSAT47/Sugarbeet
+BWD // root/DSSAT47/
+CBD // root/DSSAT47/Cabbage
+CHD // root/DSSAT47/Chickpea
+CTD // root/DSSAT47/Citrus
+CND // root/DSSAT47/Canola
+COD // root/DSSAT47/cotton
+CPD // root/DSSAT47/Cowpea
+CSD // root/DSSAT47/Cassava
+CVD // root/DSSAT47/Clover
+FAD // root/DSSAT47/Fallow
+FBD // root/DSSAT47/Fababean
+GBD // root/DSSAT47/Greenbean
+GWD // root/DSSAT47/Weeds
+LTD // root/DSSAT47/Lentil
+MLD // root/DSSAT47/Millet
+MZD // root/DSSAT47/Maize
+NND // root/DSSAT47/Banana
+NPD // root/DSSAT47/Napier
+OAD // root/DSSAT47/Oats
+PED // root/DSSAT47/Pea
+PID // root/DSSAT47/Pineapple
+PND // root/DSSAT47/Peanut
+POD // root/DSSAT47/Perennialpeanut
+PPD // root/DSSAT47/Pigeonpea
+PRD // root/DSSAT47/Pepper
+PTD // root/DSSAT47/Potato
+RID // root/DSSAT47/Rice
+RPD // root/DSSAT47/Rhizomapeanup
+SBD // root/DSSAT47/Soybean
+SCD // root/DSSAT47/Sugarcane
+SFD // root/DSSAT47/Safflower
+SGD // root/DSSAT47/Sorghum
+SSD // root/DSSAT47/
+SID // root/DSSAT47
+SUD // root/DSSAT47/Sunflower
+SWD // root/DSSAT47/SweetCorn
+TMD // root/DSSAT47/Tomato
+TND // root/DSSAT47/Tanier
+TRD // root/DSSAT47/Taro
+VBD // root/DSSAT47/Velvetbean
+VID // root/DSSAT47/
+WHD // root/DSSAT47/Wheat
+U1D // root/DSSAT47/CROP1
+U2D // root/DSSAT47/CROP2
+OTD // /
+ASD // root/DSSAT47/Seasonal
+AQD // root/DSSAT47/Sequence
+APD // root/DSSAT47/Spatial
+PSD // root/DSSAT47/Pest
+ECD // root/DSSAT47/Economic
+TOD // /
