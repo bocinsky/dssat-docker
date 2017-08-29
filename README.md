@@ -20,3 +20,4 @@ docker build bocinsky/dssat-docker .
 ```
 
 The `-t` argument gives the resulting container image a name. You can then run the container as described above.
+
